@@ -84,7 +84,7 @@ env.close()
     Episode: 20 Score: 13.0
     
 
-![ss\1.png](attachment:image.png)
+![ss\1.png](ss\1.png)
 
 <h1> Understanding the Environment </h1>
 
@@ -166,11 +166,11 @@ env.step(1)
 
 
 
-!["ss\2.png"](attachment:image.png)
+!["ss\2.png"](ss\2.png)
 
 <h1>Algorithm</h1>
 
-!["ss\3.png"](attachment:image.png)
+!["ss\3.png"](ss\3.png)
 
 <h1>Train an RL Model</h1>
 
@@ -517,7 +517,7 @@ env.close()
     Episode: 20 Score: [106.]
     
 
-!["ss\1.png"](attachment:image.png)
+!["ss\1.png"](ss\1.png)
 
 
 ```python
@@ -587,4 +587,4 @@ training_log_path
 !tensorboard --logdir={training_log_path}
 ```
 
-!["ss\4.png"](attachment:image.png)
+!["ss\4.png"](ss\4.png)

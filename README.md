@@ -84,7 +84,7 @@ env.close()
     Episode: 20 Score: 13.0
     
 
-!["ss\1.png"](attachment:image.png)
+![ss\1.png](attachment:image.png)
 
 <h1> Understanding the Environment </h1>
 
